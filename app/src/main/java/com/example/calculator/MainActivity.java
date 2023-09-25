@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                f = Integer.parseInt(first.getText().toString());
                s = Integer.parseInt(second.getText().toString());
                r = f+s;
-               out.setText("Sum is "+ r);
+               out.setText("Sum is equals to "+ r);
 
 
             }
