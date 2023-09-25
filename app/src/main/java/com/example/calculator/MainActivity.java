@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 s = Integer.parseInt(second.getText().toString());
                 r = f/s;
                 out.setText("Sum is "+ r);
-                System.out.println("Experimental Commit1");
+                System.out.println("Experimental Commit 1");
 
 
             }
